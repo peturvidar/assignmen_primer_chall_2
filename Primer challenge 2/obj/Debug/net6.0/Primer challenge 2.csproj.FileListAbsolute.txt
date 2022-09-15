@@ -1,0 +1,15 @@
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\bin\Debug\net6.0\Primer challenge 2.exe
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\bin\Debug\net6.0\Primer challenge 2.deps.json
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\bin\Debug\net6.0\Primer challenge 2.runtimeconfig.json
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\bin\Debug\net6.0\Primer challenge 2.dll
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\bin\Debug\net6.0\Primer challenge 2.pdb
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\Primer challenge 2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\Primer challenge 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\Primer challenge 2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\Primer challenge 2.AssemblyInfo.cs
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\Primer challenge 2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\Primer challenge 2.dll
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\refint\Primer challenge 2.dll
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\Primer challenge 2.pdb
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\Primer challenge 2.genruntimeconfig.cache
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\Primer challenge 2\Primer challenge 2\obj\Debug\net6.0\ref\Primer challenge 2.dll
